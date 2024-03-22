@@ -1,6 +1,6 @@
-# CryptoTracker
+# CryptoTicker
 
-> Crypto tracker app
+> Crypto ticker app
 
 ## Screenshots
 
